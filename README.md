@@ -6,7 +6,7 @@
 
 <p align="center">
 	<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=CS+Engineer;Java+Developer;DevOps;Full+Stack+Developer;AI%20|%20ML%20|%20DS;Failure%20Is%20A%20Lesson%20Learned;Success%20Is%20A%20Lesson%20Applied&center=true&width=380&height=45"></a><br>
-	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/aabir13" />
+	&nbsp;<img align="center" alt="visitors" src="https://gpvc.arturio.dev/sanket10305" />
 </p>
 
 ---
